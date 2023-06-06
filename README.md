@@ -1,2 +1,2 @@
 # CETEIcean
-Übung für die LV TextmodellierungII 
+Übung für die LV 'Textmodellierung II'
